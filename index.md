@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Projects (Technical Skill Overview) 
 
-[Project 1 Title](/sample_page)
+[Exercise Influence on Gut Diversity for Colon Cancer Patients](https://docs.google.com/presentation/d/17PMgU1ipm1UCJ_GMMOfk_NQJ0F9qKpWfzYt9vQ6b2Dw/edit?slide=id.p#slide=id.p)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -14,16 +14,6 @@
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
