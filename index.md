@@ -5,7 +5,7 @@
 ### Projects (Technical Skill Overview) 
 
 [Exercise Influence on Gut Diversity for Colon Cancer Patients](https://docs.google.com/presentation/d/17PMgU1ipm1UCJ_GMMOfk_NQJ0F9qKpWfzYt9vQ6b2Dw/edit?slide=id.p#slide=id.p)
-<img src="images/gut_microbiome_slide5.jpeg?raw=true"/>
+<img src="images/gut_microbiome_slide5?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
