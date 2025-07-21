@@ -8,13 +8,13 @@
 <img src="images/gut_microbiom_slide5.jpeg">
 Unix based environment to process NGS data to create and run scripts with conda. Multiple visualizations created to show exercise benefits    on colorectal cancer patients' gut microbial comunity. 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Automated Transcript Generator](/pdf/DSProj1.py)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+Python based automated transcript generator that makes it easier to manipulate and create an accurate transcript for any level of academics. 
 ---
-[Project 3 Title](http://example.com/)
+[General EV Locator](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+Python web scraping of used EV's. Often, those who are not well versed in the EV industry, can struggle to know aspects of the car they want. This simplified EV search should help with that and hopefully yeild more clarity on what EV to buy for ones needs. 
 ---
 
 
